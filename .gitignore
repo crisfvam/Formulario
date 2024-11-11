@@ -1,2 +1,7 @@
 form
 config.yaml
+
+# Ignorar el entorno virtual
+env/
+.venv/
+venv/
